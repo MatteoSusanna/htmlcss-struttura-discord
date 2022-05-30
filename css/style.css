@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header-top{
+    background-color: aqua;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container_top{
+    background-color: orange;
+    height: 30px;
+    width: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo, .login{
+    width: 20%;
+}
+
+.login{
+    text-align: right;
+}
+
+nav{
+    width: 60%;
+    text-align: center;
+}
+
+.container_bot{
+    height: 400px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.testo_header{
+    height: 300px;
+    width: 600px;
+    background-color: palevioletred;
+}
+
+
+
+
