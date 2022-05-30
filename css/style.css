@@ -57,7 +57,7 @@ nav{
     align-items: center;
 }
 
-.contenuto{
+.contenuto, .contenitore_blocchi{
     width: 50%;
     display: flex;
     justify-content: center;
@@ -98,14 +98,6 @@ nav{
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-.contenitore_blocchi{
-    width: 50%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
- 
 }
 
 .celeste{
