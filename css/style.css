@@ -48,6 +48,35 @@ nav{
     background-color: palevioletred;
 }
 
+.contenuto{
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
+.contenuto1{
+    background-color: cornflowerblue;
+    height: 300px;
+    width: 500px;
+}
 
+.contenuto2{
+    background-color: pink;
+    height: 300px;
+    width: 300px;
+}
 
+.contenuto:nth-child(2n){
+    background-color: lightgrey
+}
+
+.diverso{
+    height: 700px;
+}
+
+.contenuto_verde{
+    height: 600px;
+    width: 800px;
+    background-color: green;
+}
